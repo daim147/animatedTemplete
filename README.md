@@ -1,2 +1,2 @@
 # animatedTemplete
-# <a href = "https://daimsyed.github.io/animatedTemplete/"> Live Demo </a>
+# <a href = "https://daim147.github.io/animatedTemplete/"> Live Demo </a>
